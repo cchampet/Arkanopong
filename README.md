@@ -1,4 +1,8 @@
 Arkanopong
 ==========
 
-Student project - 2012. Arkanopong in C, with the SDL and the openGL 2.x libraries.
+Student project - realized in 2012 at IMAC, a school of engineering in computer science.
+
+Contributors : - Clément Champetier - Flavien Leygues
+
+Using C, SDL and OpenGL 2 librairies.
